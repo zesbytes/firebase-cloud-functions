@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowJs": false,
+  
+    "strict": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "forceConsistentCasingInFileNames": true,
+        
+    "target": "es2017",
+    "module": "commonjs",
+    "removeComments": true,
+    "outDir": "lib",
+    "sourceMap": true
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}

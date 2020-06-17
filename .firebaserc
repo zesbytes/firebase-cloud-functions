@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "zesbytes-fire-func-staging",
+    "prod": "zesbytes-fire-func"
+  }
+}
