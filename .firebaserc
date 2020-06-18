@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "zesbytes-fire-func-staging",
-    "prod": "zesbytes-fire-func"
+    "default": "zesbytes-firebase-func-stage",
+    "prod": "zesbytes-firebase-func"
   }
 }

@@ -19,6 +19,7 @@ admin.initializeApp();
 //   .catch(err => console.log(err));
 
 
+// TODO - check content-type
 export const addAgentRole = functions.https.onCall(async (data, context) => {
   if (!context.auth) {
     throw new functions.https.HttpsError('unauthenticated', 'unauthorized');
